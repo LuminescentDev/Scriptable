@@ -4,7 +4,7 @@ scriptable integration and helpers
 
 ## Features
 
-YES
+- Compiling and extracting between .js and .scriptable files
 
 ### 1.0.0
 
